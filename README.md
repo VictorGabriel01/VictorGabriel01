@@ -3,7 +3,7 @@
 
 
 - 🌱 Estudo: Desenvolvimento web java
-- ⚡ Fun fact: ...
+
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
