@@ -1,4 +1,4 @@
-# Olá! Eu sou VictorGabriel01
+# Olá! Eu sou Victor Gabriel
 ### Você pode me conhecer no:
 
 
@@ -27,9 +27,9 @@ Minhas estatísticas do GitHub:
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorGabriel01/VictorGabriel01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorGabriel01/VictorGabriel01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VictorGabriel01/VictorGabriel01/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
