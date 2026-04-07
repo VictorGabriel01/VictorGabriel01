@@ -17,4 +17,4 @@
 
 Minhas estatísticas do GitHub:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show-icons=true&theme=radical)
+![GitHub Stats](https://streak-stats.demolab.com?user=VictorGabriel01&theme=default&hide_border=true)
