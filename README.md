@@ -17,4 +17,4 @@
 
 Minhas estatísticas do GitHub:
 
-![GitHub Stats](https://streak-stats.demolab.com?user=VictorGabriel01&theme=default&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=VictorGabriel01&theme=gruvbox&hide_border=true)
